@@ -59,6 +59,6 @@ plt.legend(["Error progresiva" , "Error Central"])
 
 
 
-print("Se observa que los dos metodos tienen el mismo orden de error")
+print("Se observa que los dos metodos tienen difernete  error")
 
 
